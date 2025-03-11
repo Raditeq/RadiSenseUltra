@@ -1,0 +1,5 @@
+# Author: Raditeq
+# Copyright (C) 2025 Raditeq
+# License: MIT
+matplotlib==3.10.0
+numpy==2.2.1
